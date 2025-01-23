@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7070b2ea-e799-4a09-bec5-5bde30860cea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniversityManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicalRegistrationSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day09/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day09/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day09/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day09/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/EmployeeManagementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/HospitalManagementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/LibraryManagementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Patient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/UniversityManagementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/Vehical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day09/VehicalRegistrationSystem.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rviC48nXfTQJVUDd6f067QhfIi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankAccount (1).executor": "Debug",
+    "Application.BankAccount (2).executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.CompanyRelation (1).executor": "Debug",
+    "Application.CompanyRelation.executor": "Run",
+    "Application.ECommercePlatform (1).executor": "Run",
+    "Application.ECommercePlatform.executor": "Run",
+    "Application.HospitalDoctorAndPatient.executor": "Run",
+    "Application.SchoolResult (1).executor": "Run",
+    "Application.SchoolResult.executor": "Run",
+    "Application.SimpleAggregation (1).executor": "Run",
+    "Application.SimpleAggregation.executor": "Run",
+    "Application.UniversityFacultyAndDepartments.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "07afd503",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CapgeminiDailyQuestion/Day09"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SchoolResult (1)">
+    <configuration name="ECommercePlatform (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level02.selfproblem.ECommercePlatform" />
+      <module name="Day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level02.selfproblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ECommercePlatform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level02.selfproblem.ECommercePlatform" />
+      <module name="Day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level02.selfproblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalDoctorAndPatient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level02.selfproblem.HospitalDoctorAndPatient" />
+      <module name="Day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level02.selfproblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolResult (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.SchoolResult" />
+      <module name="Day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.SchoolResult" />
+      <module name="Day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SchoolResult (1)" />
+        <item itemvalue="Application.SchoolResult" />
+        <item itemvalue="Application.ECommercePlatform (1)" />
+        <item itemvalue="Application.ECommercePlatform" />
+        <item itemvalue="Application.HospitalDoctorAndPatient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7070b2ea-e799-4a09-bec5-5bde30860cea" name="Changes" comment="" />
+      <created>1737445820426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737445820426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="company" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
